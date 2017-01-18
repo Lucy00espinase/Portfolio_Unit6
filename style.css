@@ -9,6 +9,9 @@
     }
     h1 {
       font-size: 70px;
+       color: red;
+    font-weight:bold;
+    font-style: italic;
     }
     img {
       margin: 40px 0px 0px 0px;
@@ -32,9 +35,13 @@
       h1 {
         font-size: 36px;
         padding: 5px;
+         font-size:70px;
+    
+  
       }
       li {
         padding: 5px;
         display: block;
       }
     }
+
